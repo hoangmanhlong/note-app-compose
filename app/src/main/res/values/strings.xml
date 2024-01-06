@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="edit_add">Edit Add</string>
+    <string name="title">Title</string>
+    <string name="content">Write a note</string>
+    <string name="notification">Nothing note</string>
+    <string name="edit"> </string>
+    <string name="search">Search</string>
+    <string name="back">back</string>
+    <string name="maintain">functionality not available 😂</string>
+    <string name="save">Save</string>
+    <string name="search_empty">No results found</string>
+    <string name="delete">Delete</string>
+</resources>

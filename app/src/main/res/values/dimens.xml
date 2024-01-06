@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_and_detail_list_padding_top">20dp</dimen>
+    <dimen name="list_and_detail_list_padding_vertical">16dp</dimen>
+
+    <dimen name="note_list_item_vertical_spacing">8dp</dimen>
+</resources>
